@@ -61,10 +61,13 @@ function App() {
       <Container>
         <p>Eu sou do componente superior</p>
       </Container>
-      <Container>
+      <Container myValue="testing">
         <div>
           <p>Eu também</p>
         </div>
+      </Container>
+      <Container myValue="testing2">
+        <h5>Testando o container</h5>
       </Container>
       {/* event as prop */}
       <ExecuteFunction myFunction={showMessage} />
