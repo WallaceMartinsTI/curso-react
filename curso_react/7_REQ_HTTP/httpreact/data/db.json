@@ -1,0 +1,79 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "Suco",
+      "price": "12",
+      "id": 4
+    },
+    {
+      "name": "Drone",
+      "price": "115.90",
+      "id": 5
+    },
+    {
+      "name": "Bola",
+      "price": "25",
+      "id": 6
+    },
+    {
+      "name": "Escada",
+      "price": "250",
+      "id": 7
+    },
+    {
+      "name": "Monitor",
+      "price": "750",
+      "id": 8
+    },
+    {
+      "name": "iPhone",
+      "price": "2000",
+      "id": 9
+    },
+    {
+      "name": "iPhone",
+      "price": "2000",
+      "id": 10
+    },
+    {
+      "name": "Cavalo",
+      "price": "3800",
+      "id": 11
+    },
+    {
+      "name": "Xiami Redmi Note 8",
+      "price": "1300",
+      "id": 12
+    },
+    {
+      "name": "Maçã",
+      "price": "11.99",
+      "id": 15
+    },
+    {
+      "name": "Sapato",
+      "price": "190",
+      "id": 16
+    },
+    {
+      "name": "Notebook",
+      "price": "4500",
+      "id": 17
+    }
+  ]
+}
