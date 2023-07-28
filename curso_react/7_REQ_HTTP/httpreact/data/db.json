@@ -44,36 +44,6 @@
       "name": "iPhone",
       "price": "2000",
       "id": 9
-    },
-    {
-      "name": "iPhone",
-      "price": "2000",
-      "id": 10
-    },
-    {
-      "name": "Cavalo",
-      "price": "3800",
-      "id": 11
-    },
-    {
-      "name": "Xiami Redmi Note 8",
-      "price": "1300",
-      "id": 12
-    },
-    {
-      "name": "Maçã",
-      "price": "11.99",
-      "id": 15
-    },
-    {
-      "name": "Sapato",
-      "price": "190",
-      "id": 16
-    },
-    {
-      "name": "Notebook",
-      "price": "4500",
-      "id": 17
     }
   ]
 }
