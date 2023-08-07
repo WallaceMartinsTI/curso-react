@@ -1,0 +1,24 @@
+Fazer deploy de aplicação React (iniciada com Vite) no GitHub Pages
+
+-> criar repositório e subir os arquivos
+
+-> instalar o "npm install --save-dev gh-pages"
+
+-> criar 2 scrips no package.json:
+	"predeplay": "npm run build",
+	"deploy": "gh-pages -d dist"
+	
+-> adicionar no package.json antes do "name", um "homepage" adicionando a
+	url do projeto como valor, ex.: "homepage": "<nomedousuario>.github.io/<nomedorepo>"
+
+-> no arquivo vite.config.js, abaixo de plugins, deve configurar uma chave base, colocando
+	o nome do repositório como valor, ex.:
+	export default defineCOnfig({
+		plugins: [react()],
+		base: "<nomedorepo>"
+	})
+	
+-> realizar o commit e o push
+
+-> realizar o deploy com "npm run deploy"
+Assim ele vai gerar os arquivos de build (cria a pasta dist) e vai enviar para o github.

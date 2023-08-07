@@ -1,1 +1,3 @@
-montar o readme.md
+# Curso de React - Professor Matheus Battisti
+
+Repositório com os arquivos do curso de React, o qual pude estudar diversos conceitos da biblioteca ReactJS como propriedades, estados, hooks, custom hooks, requisições http, contextAPI, entre outros...

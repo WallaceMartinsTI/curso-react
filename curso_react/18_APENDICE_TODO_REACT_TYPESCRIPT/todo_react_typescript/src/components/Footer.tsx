@@ -1,8 +1,10 @@
+import styles from "./Footer.module.css";
+
 const Footer = () => {
   return (
-    <footer>
+    <footer className={styles.footer}>
       <p>
-        <span>React + TS Todo</span> &copy; 2021
+        <span>React + TS Todo</span> &copy; 2023
       </p>
     </footer>
   );
